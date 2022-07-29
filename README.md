@@ -1,10 +1,6 @@
 # MyEnglishLab
 
 
-<div class="flex-video">
-<video src="https://user-images.githubusercontent.com/53793285/170821617-26da539d-61ea-40a4-b562-6e95e021cc98.mp4" autoplay controls loop>
-</video>
-</div>
   
 
 <img src="https://user-images.githubusercontent.com/53793285/181718031-85143f48-2cde-492d-85ab-dd638800f5ff.jpg" width="600">
@@ -28,4 +24,7 @@
 <img src="https://user-images.githubusercontent.com/53793285/181719348-d1f74d2e-6d04-44ac-83a5-d2b8406cac20.jpg" width="600">
 
 
-
+<div class="flex-video">
+<video src="https://user-images.githubusercontent.com/53793285/170821617-26da539d-61ea-40a4-b562-6e95e021cc98.mp4" autoplay controls loop>
+</video>
+</div>
